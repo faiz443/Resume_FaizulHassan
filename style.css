@@ -30,11 +30,11 @@ body{
 	padding: 20px;
 }
 .profile{
-	width: 80%;
+	width: 100%;
     
 }
 .content{
-	padding: 20px;
+	padding: 2%;
 }
 h1{
 	color: #ceced1;
@@ -160,7 +160,7 @@ p{
     text-transform: uppercase;
     color: #26252d;
     font-weight: 400;
-    margin: 5px 0px;
+    margin: 5px 5px;
     margin-top: 10px;
 }
 .para-2{
@@ -169,5 +169,5 @@ p{
     color: #7d7d7d;
     font-weight: 400;
     margin-bottom: 20px;
-    margin-top: 0px;
+    margin-top: 15px;
 }
